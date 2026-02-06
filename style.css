@@ -6,7 +6,8 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: url('./images/logo.jpeg') ;
+    /* background: url('./images/logo.jpeg') ; */
+    background-color: #111827;
     width: 100%;
     height: 100%;
     background-size: cover;
